@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Alert Table</name>
+        <retention_policy/>
+        <source>em_alert</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 02:45:59</sys_created_on>
+        <sys_id>b068d7459752e110ad49fb500153af34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert Table</sys_name>
+        <sys_package display_value="stuapp" source="x_1007462_stuapp">b9f757059752e110ad49fb500153af90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="stuapp">b9f757059752e110ad49fb500153af90</sys_scope>
+        <sys_update_name>ais_datasource_b068d7459752e110ad49fb500153af34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 02:45:59</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

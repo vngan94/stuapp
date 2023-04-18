@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="em_alert" version="2" view="Workspace-stuapp-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter table="em_alert.parent">state!=Closed^severity!=5^maintenance=false^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+            </filter>
+            <list_id display_value="Alert - Workspace stuapp 0" name="em_alert" related_list="NULL" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">d5685b459752e110ad49fb500153af48</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>em_alert.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_id>51685b459752e110ad49fb500153af4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Alert - Workspace stuapp 0" name="em_alert" related_list="NULL" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">d5685b459752e110ad49fb500153af48</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>em_event.alert</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_id>99685b459752e110ad49fb500153af4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Alert - Workspace stuapp 0" name="em_alert" related_list="NULL" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">d5685b459752e110ad49fb500153af48</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>em_alert_management_execution.alert</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_id>9d685b459752e110ad49fb500153af4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Alert - Workspace stuapp 0" name="em_alert" related_list="NULL" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">d5685b459752e110ad49fb500153af48</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>em_remediation_task.alert</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_id>91685b459752e110ad49fb500153af4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Alert - Workspace stuapp 0" name="em_alert" related_list="NULL" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">d5685b459752e110ad49fb500153af48</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>REL:d99a2d6073843300473a8d396bf6a72e</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_id>95685b459752e110ad49fb500153af4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Alert - Workspace stuapp 0</calculated_name>
+            <filter/>
+            <name>em_alert</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5685b459752e110ad49fb500153af48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Alert - Workspace-x 1007462 stuapp-0</sys_name>
+            <sys_package display_value="stuapp" source="x_1007462_stuapp">b9f757059752e110ad49fb500153af90</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="stuapp">b9f757059752e110ad49fb500153af90</sys_scope>
+            <sys_update_name>sys_ui_related_em_alert_Workspace-x_1007462_stuapp-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace stuapp 0" name="Workspace-stuapp-0">8f5817455852e1104d1699fc604c4add</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

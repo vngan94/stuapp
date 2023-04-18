@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="stuapp">c3581745a452e1108ea7152deaee21db</dashboard>
+        <experience display_value="stuapp">03581745cb52e110998b2d0e161f3adc</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 02:45:53</sys_created_on>
+        <sys_id>cb581745f952e1106c43474c30d3abdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="stuapp" source="x_1007462_stuapp">b9f757059752e110ad49fb500153af90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="stuapp">b9f757059752e110ad49fb500153af90</sys_scope>
+        <sys_update_name>par_dashboard_visibility_cb581745f952e1106c43474c30d3abdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 02:45:53</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>stuapp_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 02:45:56</sys_created_on>
+        <sys_id>775857459752e110ad49fb500153aff4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>stuapp_menu_config</sys_name>
+        <sys_package display_value="stuapp" source="x_1007462_stuapp">b9f757059752e110ad49fb500153af90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="stuapp">b9f757059752e110ad49fb500153af90</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_775857459752e110ad49fb500153aff4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 02:45:56</sys_updated_on>
+    </sys_ux_list_menu_config>
+</record_update>

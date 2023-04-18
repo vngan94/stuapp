@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8568d7459752e110ad49fb500153af00" sys_domain="global" table="em_alert" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49681b459752e110ad49fb500153af49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">4d681b459752e110ad49fb500153af47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05681b459752e110ad49fb500153af91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="Impacted Services" display_value="Impacted Services" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">41681b459752e110ad49fb500153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89681b459752e110ad49fb500153af93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="Flapping" display_value="Flapping" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">c9681b459752e110ad49fb500153af92</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09681b459752e110ad49fb500153af97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="History" display_value="History" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">49681b459752e110ad49fb500153af96</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d681b459752e110ad49fb500153af9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">cd681b459752e110ad49fb500153af99</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d681b459752e110ad49fb500153afc2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="More Information" display_value="More Information" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">49681b459752e110ad49fb500153af9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5681b459752e110ad49fb500153afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="Repeated Alerts" display_value="Repeated Alerts" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">09681b459752e110ad49fb500153afc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d681b459752e110ad49fb500153afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="Similar Alerts" display_value="Similar Alerts" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8d681b459752e110ad49fb500153afc6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1681b459752e110ad49fb500153afca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="CI Incidents" display_value="CI Incidents" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">05681b459752e110ad49fb500153afc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d681b459752e110ad49fb500153afcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="CI Change Requests " display_value="CI Change Requests " name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">99681b459752e110ad49fb500153afcb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d685b459752e110ad49fb500153af19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="CI Problems " display_value="CI Problems " name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">d1681b459752e110ad49fb500153afce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91685b459752e110ad49fb500153af1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="Related Incidents" display_value="Related Incidents" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">d1685b459752e110ad49fb500153af1b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d685b459752e110ad49fb500153af1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="Related Change Requests" display_value="Related Change Requests" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">5d685b459752e110ad49fb500153af1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95685b459752e110ad49fb500153af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">8568d7459752e110ad49fb500153af00</sys_ui_form>
+            <sys_ui_section caption="Related Problems" display_value="Related Problems" name="em_alert" sys_domain="global" view="8f5817455852e1104d1699fc604c4add">d5685b459752e110ad49fb500153af20</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>em_alert</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 02:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8568d7459752e110ad49fb500153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>em_alert</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="stuapp" source="x_1007462_stuapp">b9f757059752e110ad49fb500153af90</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="stuapp">b9f757059752e110ad49fb500153af90</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8568d7459752e110ad49fb500153af00</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 02:46:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace stuapp 0" name="Workspace-stuapp-0">8f5817455852e1104d1699fc604c4add</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

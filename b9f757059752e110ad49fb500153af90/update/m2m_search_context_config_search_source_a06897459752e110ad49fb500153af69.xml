@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="stuapp - Workspace Search">8b581745c552e110c76e91341788cbe0</search_context_config>
+        <source display_value="stuapp - em_alert">486897459752e110ad49fb500153af4d</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 02:45:59</sys_created_on>
+        <sys_id>a06897459752e110ad49fb500153af69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="stuapp" source="x_1007462_stuapp">b9f757059752e110ad49fb500153af90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="stuapp">b9f757059752e110ad49fb500153af90</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_a06897459752e110ad49fb500153af69</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 02:45:59</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>
